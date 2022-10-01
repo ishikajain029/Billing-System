@@ -1,0 +1,3 @@
+ 1 bread 22 1
+ 2 chips 10 0
+ 3 thread 5 0
